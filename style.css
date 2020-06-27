@@ -1,0 +1,9 @@
+#container {
+  width: 375px;
+  height: 425px;
+  margin-left: 350px;
+  margin-top: 65px;
+  background-color: #000;
+  padding-left: 30px;
+  color: #fff;
+}
