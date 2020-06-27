@@ -5,4 +5,10 @@
   background-color: #000;
   padding-left: 30px;
   color: #fff;
+  text-align: center;
+}
+
+#feet {
+  width: 150px;
+  height: 25px;
 }
