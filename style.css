@@ -11,4 +11,11 @@
 #feet {
   width: 150px;
   height: 25px;
+  margin-bottom: 30px;
+}
+
+#inches {
+  width: 150px;
+  height: 25px;
+  margin-bottom: 30px;
 }
