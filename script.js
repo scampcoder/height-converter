@@ -6,5 +6,5 @@ function heightConverter() {
   const cm = (feet + inches) * 2.54;
   let n = cm.toFixed(0);
 
-  n = document.getElementById('result').innerHTML
+  document.getElementById('result').innerHTML = n;
 }
